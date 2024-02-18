@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="GitHub profile in blue color">
- 
+
 
  <style>
     /* Estilo para las imágenes */
@@ -14,7 +10,7 @@
       border: 2px solid #007acc; /* Borde alrededor de las imágenes */
     }
   </style>
-</head>
+
 <body>
   <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>

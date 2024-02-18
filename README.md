@@ -15,29 +15,28 @@
    
 <br>
 <br>
-  
-<div style="display: inline_block">
-  <p align="center">
-    <img align="center" alt="Logo do azure" height="30" width="40" title="Azure" src="./img/azure.png">
-    <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="./img/node.svg">
-    <img align="center" alt="Logo do HTML5" height="30" width="40" title="Spark" src="./img/spark.png">
-   <br><br>
-    <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Hadoop" src="./img/hadoop.png">
-    <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="./img/python.svg">
-    <br><br>
-    <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="./img/java.svg">
-    <img align="center" alt="Logo do PHP" height="30" width="40" title="django" src="./img/django.png">
-    <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="Kafka" src="./img/kafka.png">
-    <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="./img/mysql.svg"> 
-    <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="./img/mongodb.svg">
-     <br><br>
-    <img align="center" alt="Logo do Java" height="30" width="40" title="Play Framework" src="./img/play framework.png">
-    <img align="center" alt="Logo do PHP" height="30" width="40" title="SQL" src="./img/sql.png">
-    <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="Data Lake" src="./img/datalake.png"> 
-  </p>
-</div>
+
 
 <br>
+<tr>
+<td>
+<strong>Framework con los que trabajo, compile:</strong>
+<br>
+<br>
+<img align="left" alt="Spark" width="60px" src="img/spark.png" />
+<img align="left" alt="Airflow" width="30px" src="img/airlfow.png" />
+<img align="left" alt="Hudi" width="30px" src="img/azure.png" />
+<img align="left" alt="Kubernetes" width="30px" src="img/k8s.png" />
+<img align="left" alt="Python" width="30px" src="img/python.png" />
+<img align="left" alt="Java"  width="70px" src="img/scala.png" />
+<img align="left" alt="Docker"  width="40px" src="img/docker.png" />
+<img align="left" alt="Argo Workflows" width="60px" src="img/databricks.png" />
+<img align="left" alt="hadoop" width="100px" src="img/hadoop.png" />
+<img align="left" alt="mg" width="50px" src="img/mongodb.svg" />
+
+</td>
+</tr>
+</table>
 <br>
   
 <div> 
@@ -51,11 +50,5 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a>
  
-<div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="./img/snake.svg">
-    </a>
-  </p>
-</div>
 
  

@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 
 
  <style>
@@ -11,7 +9,7 @@
     }
   </style>
 
-<body>
+
   <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
   </a>
@@ -58,5 +56,4 @@
   <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
   </a>
-</body>
-</html>
+

@@ -38,7 +38,7 @@
 </tr>
 </table>
 <br>
-  
+<br>
 <div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/federico-pfund/"><img height="30" width="120" title="linkedin.com/in/federico-pfund" src="./img/linkedin.png">

@@ -1,13 +1,6 @@
 
 
- <style>
-    /* Estilo para las imágenes */
-    .framework-images img {
-      margin-right: 10px; /* Espacio entre las imágenes */
-      border-radius: 10px; /* Redondear las esquinas */
-      border: 2px solid #007acc; /* Borde alrededor de las imágenes */
-    }
-  </style>
+
 
 
   <a href="#">

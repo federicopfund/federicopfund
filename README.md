@@ -18,7 +18,7 @@
   <br>
 
   <div class="framework-images">
-    <strong>Frameworks con los que trabajo:</strong>
+    <strong>Tecnologias con los que trabajo:</strong>
     <br>
     <br>
     <img align="left" alt="Spark" width="60px" src="img/spark.png" />

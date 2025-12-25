@@ -8,7 +8,7 @@
 <!-- STACK TECNOLÓGICO -->
 <div align="center">
   <h3>🧩 Stack Tecnológico</h3>
-  <p><i>Plataformas, lenguajes y frameworks con los que trabajo diariamente</i></p>
+  <p><i>Plataformas, lenguajes y frameworks</i></p>
 </div>
 
 <br>
@@ -17,9 +17,8 @@
 <div align="center">
   <b>Procesamiento & Data</b>
   <br><br>
-  <img width="50" alt="Apache Spark" src="img/spark.png" />
-  <img width="50" alt="Apache Hadoop" src="img/hadoop.png" />
-  <img width="50" alt="Databricks" src="img/databricks.png" />
+  <img width="70" alt="Apache Spark" src="img/spark.png" />
+  <img width="70" alt="Apache Hadoop" src="img/hadoop.png" />
 </div>
 
 <br><br>
@@ -28,9 +27,10 @@
 <div align="center">
   <b>Cloud & Lenguajes</b>
   <br><br>
-  <img width="50" alt="Microsoft Azure" src="img/azure.png" />
-  <img width="50" alt="Python" src="img/python.png" />
-  <img width="50" alt="Scala" src="img/scala.png" />
+  <img width="40" alt="Microsoft Azure" src="img/azure.png" />
+  <img width="30" alt="Python" src="img/python.png" />
+  <img width="80" alt="Scala" src="img/scala.png" />
+  <img width="120" alt="Databricks" src="img/databricks.png" />
 </div>
 
 <br><br>

@@ -39,7 +39,6 @@
   <a href="https://www.wolfram.com/language/"><img alt="Wolfram Language 13.0+" src="https://img.shields.io/badge/Wolfram%20Language-13.0%2B-DD1100?logo=wolfram&logoColor=white" /></a>
   <a href="https://www.python.org/"><img alt="Python 3.13" src="https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white" /></a>
   <a href="https://www.scala-lang.org/"><img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" /></a>
-  <a href="https://www.playframework.com/"><img alt="Play Framework" src="https://img.shields.io/badge/Play%20Framework-92D13D" /></a>
   <a href="https://learn.microsoft.com/power-bi/developer/projects/projects-overview"><img alt="Power BI PBIP / TMDL" src="https://img.shields.io/badge/Power%20BI-PBIP%20%2F%20TMDL-F2C811" /></a>
 </div>
 

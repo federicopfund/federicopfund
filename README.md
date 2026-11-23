@@ -33,6 +33,18 @@
 
 <br><br>
 
+<!-- HERRAMIENTAS -->
+<div align="center">
+  <b>Herramientas</b>
+  <br><br>
+  <a href="https://www.wolfram.com/language/"><img alt="Wolfram Language 13.0+" src="https://img.shields.io/badge/Wolfram%20Language-13.0%2B-DD1100?logo=wolfram&logoColor=white" /></a>
+  <a href="https://hadoop.apache.org/"><img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black" /></a>
+  <a href="https://www.scala-lang.org/"><img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" /></a>
+  <a href="https://www.playframework.com/"><img alt="Play Framework" src="https://img.shields.io/badge/Play%20Framework-92D13D" /></a>
+</div>
+
+<br><br>
+
 <!-- IDENTIDAD PROFESIONAL -->
 <div align="center">
   <sub>

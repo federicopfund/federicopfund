@@ -25,7 +25,9 @@
 <div align="center">
   <b>Cloud & Lenguajes</b>
   <br><br>
-  <img width="40" alt="Microsoft Azure" src="img/azure.png" />
+  <a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4" /></a>
+  <a href="https://www.ibm.com/cloud"><img alt="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-054ADA" /></a>
+  <br><br>
   <img width="30" alt="Python" src="img/python.png" />
   <img width="80" alt="Scala" src="img/scala.png" />
   <img width="120" alt="Databricks" src="img/databricks.png" />
